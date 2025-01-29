@@ -1,0 +1,7 @@
+{
+  "name": "InstaChat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
